@@ -1,5 +1,5 @@
 # SCT_DS_TASK02(Data Science Intern)
-Task02 : Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+## Task02 : Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 
 # Titanic Dataset: Data Cleaning and Exploratory Data Analysis (EDA)
 This project involves performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The objective is to explore the relationships between different variables, identify patterns, and uncover insights into the survival rates and other key metrics.
